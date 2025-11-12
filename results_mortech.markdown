@@ -1,7 +1,9 @@
 ---
 layout: page
-title: COMSOL results 
+title: Numerical results 
 permalink: /results-mortech
 ---
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Reference solution](/Users/guezou/Documents/001_codes/003_comsol/u_6e6.gif)
+
+![PGD solution]()
