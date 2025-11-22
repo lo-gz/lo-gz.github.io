@@ -17,8 +17,7 @@ For s = 1.0
 ![Comparison for s = 1.0](./figures/comp_u.svg)
 
 Modes for the 10th loading step:
-<!-- ![Modes for the 10th increment](./figures/modes.svg) -->
-<img src="./figures/modes.svg" alt="Modes for the 10th step" width="600"/>
+![Modes for the 10th increment](./figures/modes.png)
 
 ## Series of results
 
