@@ -33,14 +33,14 @@ PGD solution, computed with x loading steps, x modes per step.
 ### Comparison of results for different number of loading steps -- order 1
 
 ![ord1-errVsLin](./figures/nincs_ord1/fullerrVslin.svg)
-![ord1-errVsOrder](./figures/nincs_ord1/fullerrVsord.svg)
+![ord1-errVsNinc](./figures/nincs_ord1/fullerrVsninc.svg)
 
 ### Comparison of results for different number of loading steps -- order 2
 
 ![ord2-errVsLin](./figures/nincs_ord2/fullerrVslin.svg)
-![ord2-errVsOrder](./figures/nincs_ord2/fullerrVsord.svg)
+![ord2-errVsNinc](./figures/nincs_ord2/fullerrVsninc.svg)
 
 ### Comparison of results for different number of loading steps -- order 3
 
 ![ord3-errVsLin](./figures/nincs_ord3/fullerrVslin.svg)
-![ord3-errVsOrder](./figures/nincs_ord3/fullerrVsord.svg)
+![ord3-errVsNinc](./figures/nincs_ord3/fullerrVsninc.svg)
