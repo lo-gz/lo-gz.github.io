@@ -11,7 +11,7 @@ Reference solution, computed on commercial FEM software
 ![reference_solution](./figures/u_6e6.gif)
 
 PGD solution, computed with x loading steps, x modes per step.
-![pgd_solution]()
+![pgd_solution](./figures/u_pgd.gif)
 
 ## Series of results
 
