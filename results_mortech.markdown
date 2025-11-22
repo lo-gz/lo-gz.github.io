@@ -3,7 +3,6 @@ layout: page
 title: Numerical results 
 permalink: /results-mortech
 ---
-# Numerical results
 
 ## Comparison with commercial software
 
