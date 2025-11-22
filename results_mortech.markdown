@@ -10,7 +10,7 @@ Reference solution, computed on commercial FEM software
 
 ![reference_solution](./figures/u_6e6.gif)
 
-PGD solution, computed with x loading steps, x modes per step.
+PGD solution for order 1 linearisation, computed with 10 loading steps, 3 modes per step.
 ![pgd_solution](./figures/u_pgd.gif)
 
 ## Series of results
